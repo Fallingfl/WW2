@@ -1,0 +1,11 @@
+E:\WW2\ww2控制台\WindowsFormsApp1\obj\x64\Release\WW2控制台.csproj.AssemblyReference.cache
+E:\WW2\ww2控制台\WindowsFormsApp1\obj\x64\Release\WW2控制台.csproj.SuggestedBindingRedirects.cache
+E:\WW2\ww2控制台\WindowsFormsApp1\obj\x64\Release\WW2控制台.Form1.resources
+E:\WW2\ww2控制台\WindowsFormsApp1\obj\x64\Release\WW2控制台.csproj.GenerateResource.cache
+E:\WW2\ww2控制台\WindowsFormsApp1\obj\x64\Release\WW2控制台.csproj.CoreCompileInputs.cache
+E:\WW2\ww2控制台\WindowsFormsApp1\bin\x64\Release\WW2控制台.exe.config
+E:\WW2\ww2控制台\WindowsFormsApp1\bin\x64\Release\WW2控制台.exe
+E:\WW2\ww2控制台\WindowsFormsApp1\bin\x64\Release\WW2控制台.pdb
+E:\WW2\ww2控制台\WindowsFormsApp1\obj\x64\Release\WW2控制台.Properties.Resources.resources
+E:\WW2\ww2控制台\WindowsFormsApp1\obj\x64\Release\WW2控制台.exe
+E:\WW2\ww2控制台\WindowsFormsApp1\obj\x64\Release\WW2控制台.pdb
